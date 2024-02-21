@@ -32,10 +32,10 @@ public class Program
             { 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H', 'H' }
         };
 
-        // Rita den fördefinierade kartan
+      
         RitaFärgadSpelplan(fördefinieradKarta);
 
-        Console.ReadKey(); // Håll konsolfönstret öppet
+        Console.ReadKey(); 
     }
 
     public static void RitaFärgadSpelplan(char[,] spelplan)
