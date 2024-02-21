@@ -64,7 +64,7 @@ public class Program
                         break;
                 }
 
-                Console.Write("█"); // Använd en fylld rektangel som symbol för att ge en tydligare färgrepresentation
+                Console.Write("█"); 
             }
             Console.WriteLine();
         }
