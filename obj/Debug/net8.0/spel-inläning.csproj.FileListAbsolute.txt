@@ -1,0 +1,15 @@
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\bin\Debug\net8.0\spel-inläning.exe
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\bin\Debug\net8.0\spel-inläning.deps.json
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\bin\Debug\net8.0\spel-inläning.runtimeconfig.json
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\bin\Debug\net8.0\spel-inläning.dll
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\bin\Debug\net8.0\spel-inläning.pdb
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.AssemblyInfoInputs.cache
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.AssemblyInfo.cs
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.csproj.CoreCompileInputs.cache
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.sourcelink.json
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.dll
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\refint\spel-inläning.dll
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.pdb
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\spel-inläning.genruntimeconfig.cache
+C:\Users\Delza\OneDrive\Skrivbord\spel-skolan\spel-skolan\obj\Debug\net8.0\ref\spel-inläning.dll
