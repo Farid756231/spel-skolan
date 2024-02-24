@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("spel-inläning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1252c305625fc371f097ae724045bef7b09fc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32d5f4d94503dc4ec4ccffde21456f18ea1bd03d")]
 [assembly: System.Reflection.AssemblyProductAttribute("spel-inläning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("spel-inläning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
